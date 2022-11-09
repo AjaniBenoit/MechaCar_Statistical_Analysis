@@ -68,3 +68,12 @@ The p-value is higher than 0.05 and is not statistically significant. The null h
 
 ## Study Design: MechaCar vs Competition 
 
+When comparing MechaCar to competitors, we can identify other metrics that could interest consumers, such as horsepower, acceleration time, highway and city fuel efficiency. 
+
+Our null hypothesis: Performance measures of MechaCar prototype are similar to the performance measures of competition. 
+ 
+Our Alternative hypothesis: Performance measures of MechaCar prototype are significantly different from the performance measure of competition 
+
+Using multiple linear regressions would show how the variables of horsepower, acceleration time. Highway and city fuel efficiency compare to their competitors. 
+
+A random sample of Mechacar’s competitors would be collected. The sample would need to include performance measures related to horsepower, acceleration and fuel efficiency. 
